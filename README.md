@@ -11,6 +11,7 @@
 - Programmer
 - Currently doing OSCP
 - Locksport enthusiast
+- Google dorks contributor 
 
 ## 🛠️ Technologies and Tools
 <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/bash-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
