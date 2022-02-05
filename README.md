@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    size=40&width=500&height=60&lines=H3110+Hello Friend$" style="display: inline ">
-  </a>
-</h1
+<img src=https://fontmeme.com/temporary/98e86171bc28b7dd6f4e6386889f9029.png">
 
 Here are some ideas to get you started:
 
