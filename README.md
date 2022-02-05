@@ -24,5 +24,4 @@
   
 ## 📛 Badges 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hustlebunny29.png" alt="TryHackMe">
-</br>
 <img src="https://www.hackthebox.com/badge/image/157092" alt"HackthBox">
