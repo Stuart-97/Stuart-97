@@ -8,6 +8,7 @@
 ## 👨‍💻 About me
 - Bug bounty hunter 
 - CTF player
+- Top 1% on TryHackMe.com
 - Programmer
 - Currently doing OSCP
 - Locksport enthusiast
