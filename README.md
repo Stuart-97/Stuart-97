@@ -21,4 +21,4 @@
 - Python Certfied Entry-Level Programmer (PCEP)
   
 ## 📛 Badges 
-<script src="https://tryhackme.com/badge/143312"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/hustlebunny29.png" alt="TryHackMe">
