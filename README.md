@@ -13,7 +13,7 @@
 
 
 ## 🎓 Certifications 
-Python Certfied Entry-Level Programmer (PCEP)
+- Python Certfied Entry-Level Programmer (PCEP)
   
-## Badges 
+## 📛 Badges 
 
