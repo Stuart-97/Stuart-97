@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://www.teahub.io/photos/full/265-2657028_mr-robot-wallpaper-hello-friend..jpg?size=20&width=100&height=5" style="display: inline ">
+    <img src="https://www.teahub.io/photos/full/265-2657028_mr-robot-wallpaper-hello-friend..jpg?size=10&width=10&height=5" style="display: inline ">
   </a>
 </h1>
 
