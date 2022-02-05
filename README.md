@@ -21,4 +21,4 @@
 - Python Certfied Entry-Level Programmer (PCEP)
   
 ## 📛 Badges 
-
+<image src="https://tryhackme.com/img/badges/wireshark.svg" alt="Hack The Box" style="max-width: 480px"> <br>
