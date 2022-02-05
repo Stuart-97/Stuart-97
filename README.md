@@ -1,7 +1,8 @@
-### Hi there 👋
-
-<!--
-**Stuart-97/Stuart-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&width=500&height=60&lines=H3110+Hello Friend$" style="display: inline ">
+  </a>
+</h1
 
 Here are some ideas to get you started:
 
