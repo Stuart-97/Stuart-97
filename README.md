@@ -1,8 +1,9 @@
 <h1 align="center">
     <img src="https://fontmeme.com/temporary/98e86171bc28b7dd6f4e6386889f9029.png">
-     </br>
   </a>
 </h1>
+
+</br>
 
 ## 👨‍💻 About me
 - Bug bounty hunter 
