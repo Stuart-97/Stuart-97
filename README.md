@@ -9,8 +9,7 @@
 - Bug bounty hunter 
 - CTF player
 - Top 1% on TryHackMe.com
-- Programmer
-- Currently doing OSCP
+- OSINT'teer
 - Locksport enthusiast
 - Google dorks contributor 
 
