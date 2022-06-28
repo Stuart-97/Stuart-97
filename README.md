@@ -19,7 +19,9 @@
 <image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <image src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> <image src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <image src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> <image src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 
 
-## 🎓 Certifications 
+## 🎓 Education and Certifications
+- National Diploma in Communication Networks
+- Higher Certficate in Information Communications Technology 
 - Python Certfied Entry-Level Programmer (PCEP)
   
 ## 📛 Badges 
