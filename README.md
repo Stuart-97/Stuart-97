@@ -23,6 +23,7 @@
 - National Diploma in Communication Networks
 - Higher Certficate in Information Communications Technology 
 - Python Certfied Entry-Level Programmer (PCEP)
+- Practical Network Penetration Tester (PNPT)
   
 ## 📛 Badges 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hustlebunny29.png" alt="TryHackMe">
