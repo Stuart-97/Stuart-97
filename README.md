@@ -20,8 +20,8 @@
 
 
 ## 🎓 Education and Certifications
-- National Diploma in Communication Networks
 - Higher Certficate in Information Communications Technology 
+- National Diploma in Communication Networks
 - Python Certfied Entry-Level Programmer (PCEP)
 - Practical Network Penetration Tester (PNPT)
   
